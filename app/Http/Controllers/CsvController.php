@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\DB;
 use GuzzleHttp\Client;
 
 
-class CsvController extends Controller
+class   CsvController extends Controller
 {
 
 
